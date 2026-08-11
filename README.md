@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Data Analyst / Data Technician with hands-on experience using Excel, SQL. Power BI, Tableau, Python and pandas to explore, clean, and analyse real-world datasets. I completed a Data Technician bootcamp where I built practical, end-to-end data skills — from raw data through to clear, presentation-ready insights — and I'm now looking to bring those skills into a data-focused role.
+I'm a Data Analyst / Data Technician with hands-on experience using Excel, SQL. Power BI, Tableau, Python and pandas to explore, clean, and analyse real-world datasets. I completed a Data Technician bootcamp where I built practical, end to end data skills   from raw data through to clear, presentation-ready insights  and I'm now looking to bring those skills into a data focused role.
 
 I'm particularly interested in retail and sales analytics, and enjoy the process of turning messy, incomplete data into something structured and useful.
 
