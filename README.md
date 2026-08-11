@@ -56,7 +56,7 @@ https://github.com/nirujayasundara/My-Azure-Projects
 https://github.com/nirujayasundara/Python-Basic-Projects
 https://github.com/nirujayasundara/Python-Pandas-Projects
 https://github.com/nirujayasundara/Air-line-on-time-Performance-Reliability-Control-tower
-https://github.com/nirujayasundara/Heart-disease-Analysis-Dashboard
+
 
 
 ---
