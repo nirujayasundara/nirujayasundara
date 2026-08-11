@@ -61,14 +61,6 @@ https://github.com/nirujayasundara/Heart-disease-Analysis-Dashboard
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirujayasundara&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirujayasundara&layout=compact&theme=default" height="165" />
-</p>
-
----
 
 ### 📫 Get In Touch
 
