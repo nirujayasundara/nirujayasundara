@@ -46,7 +46,6 @@ I'm particularly interested in retail and sales analytics, and enjoy the process
 
 ---
 
-### 📌 Featured Project
 
 ### 📌 Featured Project
 
