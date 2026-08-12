@@ -48,15 +48,16 @@ I'm particularly interested in retail and sales analytics, and enjoy the process
 
 ### 📌 Featured Project
 
-https://github.com/nirujayasundara/My-Excel-Repo
-https://github.com/nirujayasundara/My-Tableau-projects
-https://github.com/nirujayasundara/My-power-BI-Projects
-https://github.com/nirujayasundara/My-SQL-Projects
-https://github.com/nirujayasundara/My-Azure-Projects
-https://github.com/nirujayasundara/Python-Basic-Projects
-https://github.com/nirujayasundara/Python-Pandas-Projects
-https://github.com/nirujayasundara/Air-line-on-time-Performance-Reliability-Control-tower
+### 📌 Featured Project
 
+- [Excel Projects](https://github.com/nirujayasundara/My-Excel-Repo)
+- [Tableau Projects](https://github.com/nirujayasundara/My-Tableau-projects)
+- [Power BI Projects](https://github.com/nirujayasundara/My-power-BI-Projects)
+- [SQL Projects](https://github.com/nirujayasundara/My-SQL-Projects)
+- [Azure Projects](https://github.com/nirujayasundara/My-Azure-Projects)
+- [Python Basic Projects](https://github.com/nirujayasundara/Python-Basic-Projects)
+- [Python Pandas Projects](https://github.com/nirujayasundara/Python-Pandas-Projects)
+- [Airline On-Time Performance & Reliability Control Tower](https://github.com/nirujayasundara/Air-line-on-time-Performance-Reliability-Control-tower)
 
 
 ---
